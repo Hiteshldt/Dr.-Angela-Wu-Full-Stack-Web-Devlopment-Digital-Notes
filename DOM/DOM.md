@@ -1,6 +1,6 @@
 # *0. Adding JS to the html code:*
 
-![[Screenshot 2024-02-10 203446.png]]
+![[Screenshot 2024-02-10 203446.PNG]]
 
 ![[Screenshot 2024-02-10 203352.png]]
 
