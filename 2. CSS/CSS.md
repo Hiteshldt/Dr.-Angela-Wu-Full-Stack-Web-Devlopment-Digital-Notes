@@ -1,5 +1,5 @@
-![[Web Development CSS1.png|900]]
-![[Web Development CSS2.png|900]]
-![[Web Development CSS3.png|900]]
-![[Web Development CSS4.png|900]]
-![[Web Development CSS5.png|900]]
+![Screenshot](Screenshots/Web_Development_CSS1.png)
+![Screenshot](Screenshots/Web_Development_CSS2.png)
+![Screenshot](Screenshots/Web_Development_CSS3.png)
+![Screenshot](Screenshots/Web_Development_CSS4.png)
+![Screenshot](Screenshots/Web_Development_CSS5.png)
