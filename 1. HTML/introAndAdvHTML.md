@@ -1,1 +1,3 @@
-![[Web Development HTML3.png|900]]![[Web Development HTML2.png|900]]
+[Screenshots](/Screenshots/Web_Development_HTML1.png)
+[Screenshots](/Screenshots/Web_Development_HTML2.png)
+[Screenshots](/Screenshots/Web_Development_HTML3.png)
